@@ -1,0 +1,24 @@
+SMAP
+insertImportRice_jsp.java
+JSP
+*S JSP
+*F
++ 0 insertImportRice.jsp
+view/insertImportRice.jsp
+*L
+5,33:57
+38:90,3
+39,12:93
+50:148,11
+51:159,5
+52:164
+52,17:107
+68:189,8
+69,11:197
+79:231,11
+80:242
+81,7:243,3
+88,3:264
+90,3:210
+92,5:126
+*E

@@ -1,0 +1,239 @@
+body{
+    margin: 0px;
+}
+.e1_9 { 
+	overflow:hidden;
+}
+.e1_9 { 
+	background-color:rgba(249.00000035762787, 249.00000035762787, 249.00000035762787, 1);
+	width:1536px;
+	height:754px;
+	position:absolute;
+}
+.e21_210 { 
+	background-color:rgba(65.0000037252903, 71.00000336766243, 84.00000259280205, 1);
+	width:1536px;
+	height:138px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e2_5 { 
+	color:rgba(255, 255, 255, 1);
+	width:102px;
+	height:28px;
+	position:absolute;
+	left:666px;
+	top:47px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:-2;
+}
+.e2_6 { 
+	color:rgba(255, 255, 255, 1);
+	width:163px;
+	height:28px;
+	position:absolute;
+	left:806px;
+	top:47px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:-2;
+}
+.e2_7 { 
+	color:rgba(255, 255, 255, 1);
+	width:207px;
+	height:28px;
+	position:absolute;
+	left:1007px;
+	top:47px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:-2;
+}
+.e2_8 { 
+	color:rgba(255, 255, 255, 1);
+	width:220px;
+	height:28px;
+	position:absolute;
+	left:1252px;
+	top:47px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:-2;
+}
+.e2_3 { 
+	color:rgba(255, 255, 255, 1);
+	width:280px;
+	height:35px;
+	position:absolute;
+	left:72px;
+	top:47px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:-2;
+}
+.e2_12 { 
+	color:rgba(0, 0, 0, 1);
+	width:350px;
+	height:72px;
+	position:absolute;
+	left:72px;
+	top:168px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:35px;
+	letter-spacing:0;
+	line-height:px;
+}
+.e2_13 { 
+	border:1px solid rgba(65.0000037252903, 71.00000336766243, 84.00000259280205, 1);
+}
+.e2_13 { 
+	width:176px;
+	height:18px;
+	position:absolute;
+	left:103px;
+	top:242px;
+}
+.e19_84 { 
+	border:1px solid rgba(65.0000037252903, 71.00000336766243, 84.00000259280205, 1);
+}
+.e19_84 { 
+	width:182px;
+	height:22px;
+	position:absolute;
+	left:72px;
+	top:319px;
+}
+.e19_86 { 
+	border:1px solid rgba(65.0000037252903, 71.00000336766243, 84.00000259280205, 1);
+}
+.e19_86 { 
+	width:176px;
+	height:18px;
+	position:absolute;
+	left:269px;
+	top:319px;
+}
+.e19_87 { 
+	border:1px solid rgba(65.0000037252903, 71.00000336766243, 84.00000259280205, 1);
+}
+.e19_87 { 
+	width:176px;
+	height:18px;
+	position:absolute;
+	left:466px;
+	top:319px;
+}
+.e2_17 { 
+	color:rgba(0, 0, 0, 1);
+	width:19px;
+	height:23px;
+	position:absolute;
+	left:72px;
+	top:240px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:-2;
+}
+.e2_21 { 
+	color:rgba(0, 0, 0, 1);
+	width:62px;
+	height:21px;
+	position:absolute;
+	left:72px;
+	top:284px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:-2;
+}
+.e2_22 { 
+	color:rgba(0, 0, 0, 1);
+	width:119px;
+	height:21px;
+	position:absolute;
+	left:269px;
+	top:284px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:-2;
+}
+.e2_23 { 
+	color:rgba(0, 0, 0, 1);
+	width:140px;
+	height:21px;
+	position:absolute;
+	left:466px;
+	top:284px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:-2;
+}
+.e2_24 { 
+	background-color:rgba(65.0000037252903, 71.00000336766243, 84.00000259280205, 1);
+	width:127px;
+	height:29px;
+	position:absolute;
+	left:72px;
+	top:369px;
+}
+.e2_25 { 
+	background-color:rgba(65.0000037252903, 71.00000336766243, 84.00000259280205, 1);
+	width:215px;
+	height:29px;
+	position:absolute;
+	left:219px;
+	top:369px;
+}
+.e2_26 { 
+	color:rgba(255, 255, 255, 1);
+        background-color:rgba(65.0000037252903, 71.00000336766243, 84.00000259280205, 1);
+	width:60px;
+	height:30px;
+	position:absolute;
+	left:72px;
+	top:370px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:18px;
+	letter-spacing:-2;
+}
+.e2_27 { 
+	color:rgba(255, 255, 255, 1);
+        background-color:rgba(65.0000037252903, 71.00000336766243, 84.00000259280205, 1);
+	width:150px;
+	height:30px;
+	position:absolute;
+	left:162px;
+	top:370px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:18px;
+	letter-spacing:-2;
+}
+
+table.bill{
+    table-layout: auto;
+    width: 80%; 
+    margin-top: 355px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #ddd;
+}
+
+
+table.bill th, td{
+    text-align: center;
+    padding: 5px;
+    
+}
